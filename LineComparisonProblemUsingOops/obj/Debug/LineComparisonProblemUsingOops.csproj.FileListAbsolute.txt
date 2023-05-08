@@ -1,0 +1,8 @@
+H:\C# Project\LineComparisonProblemUsingOops\LineComparisonProblemUsingOops\bin\Debug\LineComparisonProblemUsingOops.exe.config
+H:\C# Project\LineComparisonProblemUsingOops\LineComparisonProblemUsingOops\bin\Debug\LineComparisonProblemUsingOops.exe
+H:\C# Project\LineComparisonProblemUsingOops\LineComparisonProblemUsingOops\bin\Debug\LineComparisonProblemUsingOops.pdb
+H:\C# Project\LineComparisonProblemUsingOops\LineComparisonProblemUsingOops\obj\Debug\LineComparisonProblemUsingOops.csproj.AssemblyReference.cache
+H:\C# Project\LineComparisonProblemUsingOops\LineComparisonProblemUsingOops\obj\Debug\LineComparisonProblemUsingOops.csproj.SuggestedBindingRedirects.cache
+H:\C# Project\LineComparisonProblemUsingOops\LineComparisonProblemUsingOops\obj\Debug\LineComparisonProblemUsingOops.csproj.CoreCompileInputs.cache
+H:\C# Project\LineComparisonProblemUsingOops\LineComparisonProblemUsingOops\obj\Debug\LineComparisonProblemUsingOops.exe
+H:\C# Project\LineComparisonProblemUsingOops\LineComparisonProblemUsingOops\obj\Debug\LineComparisonProblemUsingOops.pdb
