@@ -8,7 +8,7 @@ namespace LineComparisonProblemUsingOops
 {
     public class CalculateLength
     {
-        public void EqualTwoLine()
+        public void CompareLine()
         {
             double x1, y1, x2, y2, x3, y3, x4, y4;
 
@@ -34,16 +34,20 @@ namespace LineComparisonProblemUsingOops
             y4 = double.Parse(Console.ReadLine());
 
             double lengthLine2 = Math.Sqrt(Math.Pow(x4 - x3, 2) + Math.Pow(y4 - y3, 2));
-
             Console.WriteLine("Length of the Second line = " + lengthLine2);                //Caculating second length of line
 
-            if (lengthLine1 == lengthLine2)                     //to check both length of line are equal or not
+            int comparisonResult = lengthLine1.CompareTo(lengthLine2);                      //comparing line1 and line2
+            if (comparisonResult == 0)
             {
-                Console.WriteLine("Both line of length is equal");
+                Console.WriteLine("Line 1 is equal to line 2.");
+            }
+            else if (comparisonResult < 0)
+            {
+                Console.WriteLine("Line 1 is less than line 2.");
             }
             else
             {
-                Console.WriteLine("Both line of Length is not equal");
+                Console.WriteLine("Line 1 is greater than line 2.");
             }
         }
     }

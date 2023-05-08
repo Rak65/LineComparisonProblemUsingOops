@@ -11,7 +11,7 @@ namespace LineComparisonProblemUsingOops
         static void Main(string[] args)
         {
             CalculateLength calculateLength = new CalculateLength();
-            calculateLength.EqualTwoLine();
+            calculateLength.CompareLine();
             Console.ReadKey();
         }
     }
